@@ -1,0 +1,51 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.main-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.main-container img{
+    height: 100px;
+}
+
+.nav-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: green;
+}
+
+.nav-container h2{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
+
+.main-container-content {
+    background-image: url('https://www.smartfarm.ag/wp-content/uploads/2018/10/hero-farmscape.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.main-container-content h1{
+    background-color: rgba(218, 223, 228, 0.404);
+    padding: 20px;
+}
+
+.main-container-content>div{
+    margin-right: 60%;
+}
+
+
