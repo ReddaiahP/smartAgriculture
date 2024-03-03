@@ -70,10 +70,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'Agriculture',
-        'USER': 'admin',
-        'PASSWORD': 'reddyreddy',
-        'HOST': 'database-1.cfmsk2gys82p.eu-north-1.rds.amazonaws.com',
-        'PORT': 3306
+        'USER': 'ai***n',
+        'PASSWORD': 'red***y',
+        'HOST': 'database-1.cfms****************ws.com',
+        'PORT': 3306 
     }
 }
 
